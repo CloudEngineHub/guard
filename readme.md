@@ -606,11 +606,15 @@ We welcome feedback and suggestions on how we can improve this maintenance and e
 ---
 ## Citing GUARD
 ```
-@article{zhao2023guard,
-  title={GUARD: A Safe Reinforcement Learning Benchmark},
-  author={Zhao, Weiye and Chen, Rui and Sun, Yifan and Li, Feihan and Liu, Ruixuan and Wei, Tianhao and Liu, Changliu},
-  journal={arXiv preprint arXiv:2305.13681},
-  year={2023}
+@article{
+  zhao2024guard,
+  title={{GUARD}: A Safe Reinforcement Learning Benchmark},
+  author={Weiye Zhao and Yifan Sun and Feihan Li and Rui Chen and Ruixuan Liu and Tianhao Wei and Changliu Liu},
+  journal={Transactions on Machine Learning Research},
+  issn={2835-8856},
+  year={2024},
+  url={https://openreview.net/forum?id=kZFKwApeQO},
+  note={}
 }
 ```
 
